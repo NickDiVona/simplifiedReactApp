@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 //import any child components of App
-import FancyText from './components/FancyTitle';
+import FancyText from './components/FancyText';
 
 // declare our component
 class App extends Component {
