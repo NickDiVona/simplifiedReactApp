@@ -1,7 +1,6 @@
-Passing of props from parent to child  
-How to handle events (such as onClik)  
-Updating a components state  
-Conditional Rendering
-
-Follow along on Youtube here:
-https://www.youtube.com/watch?v=9dWSP6rIRHg
+Basic coverage/use of:
+-Passing of props from parent to child  
+-How to handle events (such as onClick)  
+-Updating a components state  
+-Conditional Rendering
+-Ternary Operator
